@@ -17,11 +17,8 @@ public class ShowMeTheNumbers {
      * @return the numbers 1..n, each followed by "\n" — {@code ""} when n is 0
      */
     public String count(int n) {
-        String x = "";
-        for  (int i = 1; i <= n; i++) {
-            x += i+"\n";
-        }
-        return x;
+
+        return null;
 
     }
 }
